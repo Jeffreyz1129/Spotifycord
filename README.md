@@ -3,7 +3,7 @@ A code that allows you to get custom spotify rich presence!
 
 ----
 
-The [index.js](https://github.com/SealedSaucer/Spotifycord/blob/main/index.js) is the main file. [server.js](https://github.com/SealedSaucer/Spotifycord/blob/main/server.js) prevents your repl from going to sleep. (If you have a replit hacker plan, then you can delete [this file](https://github.com/SealedSaucer/Spotifycord/blob/main/server.js) and paste this code inside the [index.js](https://github.com/SealedSaucer/Spotifycord/blob/main/index.js) file : 
+The [index.js](https://github.com/SealedSaucer/Spotifycord/blob/main/index.js) is the main file. [server.js](https://github.com/SealedSaucer/Spotifycord/blob/main/server.js) prevents your repl from going to sleep. (If you have a replit hacker plan or want to run the script locally, then you can delete [this file](https://github.com/SealedSaucer/Spotifycord/blob/main/server.js) and paste this code inside the [index.js](https://github.com/SealedSaucer/Spotifycord/blob/main/index.js) file : 
 
 </br>
 
