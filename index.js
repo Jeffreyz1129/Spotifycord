@@ -5,10 +5,10 @@ const { Client } = require('discord.js-selfbot-v11')
 let rpcGenerator = require("discordrpcgenerator")
 const client = new Client();
 
-let CLIENT_ID = "CLIENT_ID"
-let IMAGE = "IMAGE_NAME"
-let SONG = "SONG_NAME"
-let ARTIST = "ARTIST"
+let CLIENT_ID = "The bot's client id"
+let IMAGE = "The name of the image"
+let SONG = "The name of the song"
+let ARTIST = "The artist of the song"
 
 client.on("ready", () => {
     rpcGenerator.getRpcImage(CLIENT_ID, IMAGE)
